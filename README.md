@@ -85,5 +85,7 @@ The bot tracks:
 
 **Powered by Salesly** - Transform your website with instant answers and deep visitor insights!
 
-🌐 Website: [salesly.live](https://salesly.live)# Twitter_AI_Promoter
-# Twitter_AI_Promoter
+🌐 Website: [salesly.live](https://salesly.live)
+
+---
+<a href="https://www.producthunt.com/products/salesly?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-salesly" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=983535&theme=light&t=1753430104131" alt="Salesly - Salesly&#0058;&#0032;AI&#0032;powered&#0032;Growth&#0032;Partner&#0032;for&#0032;startups | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
