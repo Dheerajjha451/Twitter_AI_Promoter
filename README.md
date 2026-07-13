@@ -23,7 +23,7 @@ Visit: [salesly.live](https://salesly.live)
 
 1. **Clone the Repository**
 ```bash
-   git clone https://github.com/Dheerajjha451/Twitter_AI_Promoter.git
+   git clone https://github.com/Dheerajjha451/Twitter_AI_Promoter
    ```
 
 2. **Install Dependencies**
