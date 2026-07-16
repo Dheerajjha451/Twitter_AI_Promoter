@@ -21,18 +21,23 @@ Visit: [salesly.live](https://salesly.live)
 
 ## 📋 Quick Start
 
-1. **Install Dependencies**
+1. **Clone the Repository**
+```bash
+   git clone https://github.com/Dheerajjha451/Twitter_AI_Promoter
+   ```
+
+2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Set Up Environment**
+3. **Set Up Environment**
    ```bash
    cp .env.example .env
    # Edit .env with your credentials
    ```
 
-3. **Run the Bot**
+4. **Run the Bot**
    ```bash
    python3 twitter_bot.py
    ```
